@@ -8,3 +8,4 @@ One thing I found slightly difficult was deciding how to present a lot of inform
 how to balance content and design by keeping the text short and using headings to improve readability. This task helped me understand how visual presentation plays
 an important role in effective communication.
 
+![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/Screenshot%202026-03-19%20172932.png?raw=true)
