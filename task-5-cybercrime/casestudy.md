@@ -1,4 +1,4 @@
-                                                            Case Study: Ransomware Attack
+                                                       Case Study: Ransomware Attack
 
 Ransomware is a type of cybercrime in which malicious software encrypts a victim’s data and demands payment (usually in cryptocurrency) to restore access. A well-
 known real-life example is the WannaCry ransomware attack in 2017, which affected hundreds of thousands of computers worldwide, including hospitals, businesses, and 
