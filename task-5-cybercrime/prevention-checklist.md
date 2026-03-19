@@ -21,7 +21,7 @@ Stay Safe Online – Checklist
 10.Regularly review your bank statements and online transactions for any unusual activity
 
 
-Stay Safe Online – Checklist
+UPI Specific Tips - Checklist
 
 1.Use strong and unique passwords for each account (combine letters, numbers, and symbols)
 
@@ -29,4 +29,4 @@ Stay Safe Online – Checklist
 
 3.Do not share OTPs, UPI PINs, or passwords with anyone under any circumstances
 
-Always Contact for cyber crime related issues with cybercrime.gov.in or 1930
+                               Always Contact for cyber crime related issues with cybercrime.gov.in or 1930
