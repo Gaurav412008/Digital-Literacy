@@ -1,9 +1,10 @@
-For my digital development, I chose GitHub, LinkedIn, and Stack Overflow as my primary platforms. GitHub is mainly used for version control and project management,
-where I can store my code, collaborate with others, and showcase my technical projects. LinkedIn is a professional networking platform that helps me build my online
-presence, connect with industry professionals, and explore internship and job opportunities. Stack Overflow is a community-based platform where developers ask and 
-answer technical questions, making it useful for learning, troubleshooting errors, and improving coding skills.
+In this project, I used CodeChef and Google Workspace for learning and collaboration. CodeChef is a competitive programming platform where I practiced coding 
+problems to improve my logical thinking, problem-solving skills, and programming knowledge. It helped me understand different algorithms and improve my coding speed 
+and accuracy. Google Workspace, including tools like Google Docs, Google Slides, and Google Drive, was used for creating, editing, and sharing project work 
+efficiently with others.
 
-Over the next four years, I plan to actively use GitHub to upload my academic and personal projects, demonstrating my growth as a developer. I will maintain a
-professional LinkedIn profile by sharing achievements, certifications, and experiences to build a strong network. Additionally, I will regularly use Stack Overflow to
-seek help when needed and contribute by answering questions as my knowledge improves. These platforms will help me enhance my skills, build a strong portfolio, and 
-prepare for future career opportunities.
+Through this project, I practiced solving coding challenges on CodeChef and organizing my work using Google Workspace tools. These platforms made it easier to 
+collaborate, manage files, and present information in a structured way. Over time, regular practice on CodeChef will strengthen my programming skills, which are
+essential for academic subjects and technical interviews. Similarly, Google Workspace will help me work on assignments, group projects, and presentations more 
+effectively. Together, these tools will support my academic growth by improving both my technical and collaborative abilities.
+
