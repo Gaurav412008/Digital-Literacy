@@ -8,8 +8,8 @@ professional LinkedIn profile by sharing achievements, certifications, and exper
 seek help when needed and contribute by answering questions as my knowledge improves. These platforms will help me enhance my skills, build a strong portfolio, and 
 prepare for future career opportunities.
 
-![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/Linkedin.jpeg?raw=true)
+![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/files/Linkedin.jpeg?raw=true)
 
-![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/Screenshot%202026-03-19%20175630.png?raw=true)
+![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/files/Screenshot%202026-03-19%20175630.png?raw=true)
 
-![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/Screenshot%202026-03-19%20180513.png?raw=true)
+![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/files/Screenshot%202026-03-19%20180513.png?raw=true)
