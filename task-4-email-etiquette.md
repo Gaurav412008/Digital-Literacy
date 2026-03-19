@@ -1,1 +1,3 @@
 ![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/Screenshot%202026-03-19%20184457.png?raw=true)
+
+![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/Screenshot%202026-03-19%20184826.png?raw=true)
