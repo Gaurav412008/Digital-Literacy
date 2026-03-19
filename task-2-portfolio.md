@@ -7,6 +7,7 @@ Over the next four years, I plan to actively use GitHub to upload my academic an
 professional LinkedIn profile by sharing achievements, certifications, and experiences to build a strong network. Additionally, I will regularly use Stack Overflow to
 seek help when needed and contribute by answering questions as my knowledge improves. These platforms will help me enhance my skills, build a strong portfolio, and 
 prepare for future career opportunities.
+
 ![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/Linkedin.jpeg?raw=true)
 
 ![image alt](https://github.com/Gaurav412008/Digital-Literacy/blob/main/Screenshot%202026-03-19%20175630.png?raw=true)
